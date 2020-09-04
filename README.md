@@ -1,7 +1,7 @@
-# Untitled Game
+# Collider
 
 __What is the game about?__
-Untitled Game is a game where you can spawn whatever the hell it may be that you want, and smash it with other things you can spawn in!
+Collider is a game where you can spawn whatever the hell it may be that you want, and smash it with other things you can spawn in!
 
 __How does it work?__
 At the start you are given a book. This book will have a list of every available item for you to spawn.
