@@ -1,4 +1,4 @@
-# Collider
+# Colliders!
 
 __What is the game about?__
 Collider is a game where you can spawn whatever the hell it may be that you want, and smash it with other things you can spawn in!
