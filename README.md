@@ -8,6 +8,6 @@ At the start you are given a book. This book will have a list of every available
 If there is an item you believe should be added, #item-suggestions we are always open for ideas!
 
 __How do I get the game?__
-Currently, we have not released to the public, but our github (https://github.com/llamanoodles/untitledgame) is open for you to download the current build. Keep an eye on our github for when new commits are made. We don't advise you to download this as it so far is only a grey room with a few objects in it.
+Currently, we have not released to the public, but our github (https://github.com/llamanoodles/colliders) is open for you to download the current build. Keep an eye on our github for when new commits are made. We don't advise you to download this as it so far is only a grey room with a few objects in it.
 
 https://discord.com/invite/r2N78pC
